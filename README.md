@@ -2,7 +2,7 @@ This is an Arduino Nano based hardware mixer control for use with deej project (
 
 The idea is based on the Snackboard mix here (https://github.com/Snackya/Snackboard-mix).
 
-I liked the idea of using a PCB as a clear printed panel, but used different slide potentiometers and decided to buy cheap knobs, rather than print them.
+I liked the idea of using a PCB as a clearly printed front panel, but used different slide potentiometers and decided to buy cheap knobs, rather than print them.
 
 As I also have a 3D printer the final design will include a 3D printed spacer to act as a case, sandwiched between the two PCB's used for the project.
 
