@@ -486,12 +486,12 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "3D_Views/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Arduino_Mixer.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "Arduino_Mixer.wrl"
     },
     "page_layout_descr_file": ""
   },
