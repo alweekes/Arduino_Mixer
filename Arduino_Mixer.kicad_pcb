@@ -195,7 +195,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/7e6f8470-398c-4779-8a61-541d6bdb787e")
+		(sheetname "Root")
+		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -302,7 +305,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/0a0c6de4-cef7-48fb-a5cd-08f36c8f4492")
+		(sheetname "Root")
+		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -409,7 +415,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/100fcd93-7c92-489f-8c4c-f35a2f79266e")
+		(sheetname "Root")
+		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -450,113 +459,6 @@
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(uuid "81166cd2-34f6-4579-b0ff-1a6f789ed217")
-		)
-	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
-		(layer "F.Cu")
-		(uuid "e3e147a1-6e18-4d62-8036-da49ccbe6a53")
-		(at 165 85)
-		(descr "Mounting Hole 3.2mm, no annular, M3, ISO14580")
-		(tags "mounting hole 3.2mm no annular m3 iso14580")
-		(property "Reference" "H5"
-			(at 0 -3.75 0)
-			(layer "F.SilkS")
-			(uuid "58d7c443-8045-4f39-adaf-8b085c69194a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.75 0)
-			(layer "F.Fab")
-			(uuid "26630ff0-90bb-4d27-a659-3aa6f1771ad4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO14580"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b142b446-24f6-45f9-a773-79b9dd4e5a2b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "916c2a64-c004-447a-b5c7-44241554e7d3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "81c116a6-a6c2-460b-9d48-0a0a3fd1d518")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(path "/ddf30989-9c11-436a-8666-5c36ec87124d")
-		(attr exclude_from_pos_files)
-		(fp_circle
-			(center 0 0)
-			(end 2.75 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill none)
-			(layer "Cmts.User")
-			(uuid "e148890c-0001-476f-b29d-645bd8a3b881")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 3 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.CrtYd")
-			(uuid "35b9d1b4-ff8e-45ea-b378-48f48f89d6f1")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "05c7ae45-6e3b-4cd2-8b55-36502eb64bd9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 3.2 3.2)
-			(drill 3.2)
-			(layers "*.Cu" "*.Mask")
-			(uuid "00674b5a-4328-4736-9574-f4b22ebf5a5f")
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
@@ -623,7 +525,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "MountingHole*")
 		(path "/07ba51da-bb4f-4fb9-900d-e15f822cc67e")
+		(sheetname "Root")
+		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -733,7 +638,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Arduino*Nano*")
 		(path "/84e4e68b-f135-4468-8fdc-4ab1d18557c4")
+		(sheetname "Root")
+		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 16.64 3.94)
@@ -1429,7 +1337,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Potentiometer*")
 		(path "/764b47a2-6b5d-4c44-b28a-52a27e6a6e43")
+		(sheetname "Root")
+		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
@@ -1611,7 +1522,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Potentiometer*")
 		(path "/82ce90ab-7116-4323-b716-448f111ade5d")
+		(sheetname "Root")
+		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
@@ -1793,7 +1707,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Potentiometer*")
 		(path "/385e4553-9dc8-4de8-ae0e-008f6b0b07d0")
+		(sheetname "Root")
+		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
@@ -1975,7 +1892,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Potentiometer*")
 		(path "/ed990da5-3b05-493d-8157-e8ff1e365f7c")
+		(sheetname "Root")
+		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
@@ -2157,7 +2077,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Potentiometer*")
 		(path "/67cc1506-abfb-42d5-9fb5-697e2ee1b142")
+		(sheetname "Root")
+		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
@@ -2339,7 +2262,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Potentiometer*")
 		(path "/14a2c458-c5ba-4989-8811-1de2f2769762")
+		(sheetname "Root")
+		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
