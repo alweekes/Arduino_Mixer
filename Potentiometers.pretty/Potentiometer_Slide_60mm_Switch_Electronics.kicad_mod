@@ -152,7 +152,7 @@
 		(remove_unused_layers no)
 		(uuid "982dc000-1af6-4bbb-b748-94a0c292b105")
 	)
-	(model "${KIPRJMOD}/Potentiometers/Slide_Potentiomter_60mm.step"
+	(model "${KIPRJMOD}/Potentiometers_3D/Slide_Potentiometer_60mm.step"
 		(offset
 			(xyz 35 -2.5 6.1)
 		)

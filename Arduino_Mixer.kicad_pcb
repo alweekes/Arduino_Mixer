@@ -140,7 +140,7 @@
 		(property "Reference" "H2"
 			(at 0 -3.75 0)
 			(layer "F.SilkS")
-			(uuid "aae8b464-fd3f-4848-b20d-e79ada39c721")
+			(uuid "2dc879c0-0597-4be0-98d8-a5a1b04c65b2")
 			(effects
 				(font
 					(size 1 1)
@@ -151,7 +151,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.75 0)
 			(layer "F.Fab")
-			(uuid "6f929446-f2e3-4dbb-b048-443a54f10ec3")
+			(uuid "5d1cd4e5-679d-4634-a227-df5e8f232f22")
 			(effects
 				(font
 					(size 1 1)
@@ -164,7 +164,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "548c76ef-984d-458f-9223-064e78252edc")
+			(uuid "c52d891e-adbb-4661-890b-a4bd05105b34")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -176,7 +176,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e3a9b20-ebb1-4dc8-ba5c-83a4e641005a")
+			(uuid "a38d48de-165d-407b-8f30-01529d607cc9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -188,17 +188,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d8283f43-49ee-4ef2-b6b4-009e10d7a1d5")
+			(uuid "7d6d4bff-949d-469f-8570-14d973aab557")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "MountingHole*")
 		(path "/7e6f8470-398c-4779-8a61-541d6bdb787e")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -209,7 +206,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "3d7c7095-5b51-498d-b48d-72ad479f0d87")
+			(uuid "faa1e6e9-f280-477d-898e-121d95c62b19")
 		)
 		(fp_circle
 			(center 0 0)
@@ -220,12 +217,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "43ec5410-2c2f-4b27-a993-bbe7840e70b8")
+			(uuid "f743f290-a290-448a-a125-46b5b7d244f6")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "67c84772-5398-4d3b-8159-7e84d501869c")
+			(uuid "e569e939-31dd-468f-b525-968e8b045e89")
 			(effects
 				(font
 					(size 1 1)
@@ -238,7 +235,7 @@
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "b27883b5-8cc6-48fb-84fa-2cb003d746a2")
+			(uuid "ed7f24ec-d81d-43ef-9ba3-d9680d2b0e4e")
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
@@ -250,7 +247,7 @@
 		(property "Reference" "H3"
 			(at 0 -3.75 0)
 			(layer "F.SilkS")
-			(uuid "6a037063-6c80-4c22-8043-ae1b942eded9")
+			(uuid "ec58c3bb-b879-4249-9ba6-72b2861b48a1")
 			(effects
 				(font
 					(size 1 1)
@@ -261,7 +258,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.75 0)
 			(layer "F.Fab")
-			(uuid "03573d5f-30de-40b8-aa3a-c593f2e7060c")
+			(uuid "71fbc6c8-32ec-41c9-a48b-989855402d62")
 			(effects
 				(font
 					(size 1 1)
@@ -274,7 +271,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f5992f50-203d-41de-8e1d-80c51f546f93")
+			(uuid "14db193f-e3a3-403d-9371-965673200c5e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -286,7 +283,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7804d111-6ffa-4002-9946-80ad8a0bb328")
+			(uuid "4f669d5e-22ad-4847-9815-a9ad02c375ba")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -298,17 +295,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ebe4cabd-e0d3-43cf-8434-e5b0521e9584")
+			(uuid "dffbcfd4-2eb8-445b-b9fb-5683fd7499d5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "MountingHole*")
 		(path "/0a0c6de4-cef7-48fb-a5cd-08f36c8f4492")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -319,7 +313,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "67015432-404b-4b99-86ae-1c683239fa0a")
+			(uuid "bd93e546-c33c-452d-ab3c-45ee46b0ef50")
 		)
 		(fp_circle
 			(center 0 0)
@@ -330,12 +324,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "f0d86b1d-aece-40c5-9f78-b07ac2336d76")
+			(uuid "7c765761-447d-4fd9-8a99-a3690d651cb7")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "ddce38ce-c204-4633-b2a6-72e5c8a00961")
+			(uuid "b09a0a5e-c34d-4ea5-8fdf-4afcabb504b1")
 			(effects
 				(font
 					(size 1 1)
@@ -348,7 +342,7 @@
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "af73df26-0c18-4639-8d91-9c93ffb49a77")
+			(uuid "ff2d9c9b-de63-4b7f-bcfc-65b4d7e2a5c2")
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
@@ -360,7 +354,7 @@
 		(property "Reference" "H4"
 			(at 0 -3.75 0)
 			(layer "F.SilkS")
-			(uuid "908e401e-88bd-4143-aa7a-a15251a4f78c")
+			(uuid "6ec47cb4-e394-4d9a-aa83-9bec87916137")
 			(effects
 				(font
 					(size 1 1)
@@ -371,7 +365,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.75 0)
 			(layer "F.Fab")
-			(uuid "ce07707c-0d02-4125-980e-212f4ec8d3d5")
+			(uuid "a59c1b0a-0400-4a95-bab8-46db1585157f")
 			(effects
 				(font
 					(size 1 1)
@@ -384,7 +378,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1e26849a-e0c9-4012-9146-68bc05b8a348")
+			(uuid "eecad31d-a57c-4ae5-ab86-0af8673159d8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -396,7 +390,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1408a3ab-b6dc-4f8e-832f-ffcacf9a6663")
+			(uuid "9d2280d3-8c8c-40ce-9312-7b90e8ff23da")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -408,17 +402,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "74e5277f-cdc4-450b-96cf-7babcf31a481")
+			(uuid "17996ab6-cfe6-44f5-9031-86207cb3507c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "MountingHole*")
 		(path "/100fcd93-7c92-489f-8c4c-f35a2f79266e")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -429,7 +420,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "78c2122f-6c85-44e6-8835-8cd9c35bf173")
+			(uuid "65239126-49e0-49b4-84aa-1408b8708e02")
 		)
 		(fp_circle
 			(center 0 0)
@@ -440,12 +431,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "d728cfed-3222-445f-b51c-e7ad7fe53306")
+			(uuid "770972d7-e1dd-4323-9622-22f2fb0f377e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "3da1d7c3-5a0b-41c1-a5d7-c484ed45bdd9")
+			(uuid "895864d7-1089-47e8-a068-f8760c542ba8")
 			(effects
 				(font
 					(size 1 1)
@@ -458,7 +449,7 @@
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "259e591c-76e7-4fd2-9bc3-01d688859017")
+			(uuid "81166cd2-34f6-4579-b0ff-1a6f789ed217")
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
@@ -470,7 +461,7 @@
 		(property "Reference" "H5"
 			(at 0 -3.75 0)
 			(layer "F.SilkS")
-			(uuid "19381f15-8819-4f17-a501-fd265e9a0e06")
+			(uuid "58d7c443-8045-4f39-adaf-8b085c69194a")
 			(effects
 				(font
 					(size 1 1)
@@ -481,7 +472,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.75 0)
 			(layer "F.Fab")
-			(uuid "3ca70b90-9bb7-4aa6-a411-a5578643502f")
+			(uuid "26630ff0-90bb-4d27-a659-3aa6f1771ad4")
 			(effects
 				(font
 					(size 1 1)
@@ -494,7 +485,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7b5c706b-1470-4687-b540-342ac3df6c11")
+			(uuid "b142b446-24f6-45f9-a773-79b9dd4e5a2b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -506,7 +497,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "92a92885-0c62-4598-8ba5-c988996e839d")
+			(uuid "916c2a64-c004-447a-b5c7-44241554e7d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -518,17 +509,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "81519eac-3be7-4ecb-89b8-002f3673ee11")
+			(uuid "81c116a6-a6c2-460b-9d48-0a0a3fd1d518")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "MountingHole*")
 		(path "/ddf30989-9c11-436a-8666-5c36ec87124d")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -539,7 +527,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "9318164a-6111-4291-8ed9-cc80e0ae4a0f")
+			(uuid "e148890c-0001-476f-b29d-645bd8a3b881")
 		)
 		(fp_circle
 			(center 0 0)
@@ -550,12 +538,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "192e6e11-5d86-43a3-b960-b88e381707e8")
+			(uuid "35b9d1b4-ff8e-45ea-b378-48f48f89d6f1")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "8fcd9e03-9730-4e50-a590-18d6f0cfc83a")
+			(uuid "05c7ae45-6e3b-4cd2-8b55-36502eb64bd9")
 			(effects
 				(font
 					(size 1 1)
@@ -568,7 +556,7 @@
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "d41c5ad4-e1a1-4b75-b973-6839f4250e4d")
+			(uuid "00674b5a-4328-4736-9574-f4b22ebf5a5f")
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
@@ -580,7 +568,7 @@
 		(property "Reference" "H1"
 			(at 0 -3.75 0)
 			(layer "F.SilkS")
-			(uuid "1e53ce8a-aa97-46e8-85e8-53cc9ce42660")
+			(uuid "42c18c39-4cb8-4971-ad07-d2edb4c157b2")
 			(effects
 				(font
 					(size 1 1)
@@ -591,7 +579,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.75 0)
 			(layer "F.Fab")
-			(uuid "5c3202ad-3449-47b2-9279-f608dc7c4b9d")
+			(uuid "b41c56f0-7cdc-43a0-a0bb-699ca1ffef40")
 			(effects
 				(font
 					(size 1 1)
@@ -604,7 +592,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3543559f-1871-41bd-b6e6-9ecde19f4c1a")
+			(uuid "cbca4d90-5cc5-461e-bfc5-d5892c1f5c0f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -616,7 +604,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d9679399-fdef-4693-82bf-2272d00ace66")
+			(uuid "6183d5f9-5dd6-4e4d-be39-0ea104a1a58e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -628,17 +616,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "140848c2-fe29-4f90-9bd5-36d653ebd956")
+			(uuid "cd49f4e8-4b0e-4159-bf3b-1eb5946fb3f2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "MountingHole*")
 		(path "/07ba51da-bb4f-4fb9-900d-e15f822cc67e")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -649,7 +634,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "9b629964-705f-4f88-983b-5394d5eacf57")
+			(uuid "24d4d5f6-84ac-421b-a1ce-aba1bdc9ec01")
 		)
 		(fp_circle
 			(center 0 0)
@@ -660,12 +645,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "23990436-541f-4efa-8187-45421751bea2")
+			(uuid "13c077af-8a61-414c-a9b5-3a22973a2bad")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "0a5a9a86-df0a-4c54-ab7c-3e8c85dda30f")
+			(uuid "7584c19a-f13a-4091-ae5b-43742fffd724")
 			(effects
 				(font
 					(size 1 1)
@@ -678,7 +663,7 @@
 			(size 3.2 3.2)
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f08d2247-d01f-44bd-99e8-79ab5a69181e")
+			(uuid "cc338f95-c6d4-4eac-b1a5-cdc16ac79f66")
 		)
 	)
 	(footprint "Module:Arduino_Nano"
@@ -691,7 +676,7 @@
 		(property "Reference" "A1"
 			(at 7.62 5.08 0)
 			(layer "B.SilkS")
-			(uuid "51eaf5a0-163b-47dc-b2ac-d25ff0bfe57c")
+			(uuid "2866f178-c0cb-478d-b563-9637a2ee748f")
 			(effects
 				(font
 					(size 1 1)
@@ -703,7 +688,7 @@
 		(property "Value" "Arduino_Nano_v3.x"
 			(at 8.89 -19.05 90)
 			(layer "B.Fab")
-			(uuid "c5d428ef-8570-44fd-9b54-023dd45697b5")
+			(uuid "ec0a2ef7-133e-4ee6-bd7f-3cf8e20d05c0")
 			(effects
 				(font
 					(size 1 1)
@@ -717,7 +702,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f129a9f-9d93-4191-86a1-be19fd08cd7a")
+			(uuid "78de251c-b072-4454-ab5f-74e2dc6cc781")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -729,7 +714,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0c9eca08-76ca-4bc4-b263-cec639d5d43f")
+			(uuid "a37887d3-c0e0-4d07-a943-3546bfde4942")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -741,17 +726,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "af25e696-abc8-4151-8493-307e0ba8773a")
+			(uuid "d2dbbf70-4baa-4170-a483-9e97cdad9924")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "Arduino*Nano*")
 		(path "/84e4e68b-f135-4468-8fdc-4ab1d18557c4")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 16.64 3.94)
@@ -761,7 +743,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "e8dc4c2c-3a41-4c6d-bdff-6d2e118a6893")
+			(uuid "672a500c-f263-4809-b379-b0519c40ded9")
 		)
 		(fp_line
 			(start 16.64 1.27)
@@ -771,7 +753,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "9a173a66-1b87-4ff3-b334-2630124dcf76")
+			(uuid "8f0da6a7-ff34-4c60-a915-0df627d9327c")
 		)
 		(fp_line
 			(start 16.64 -36.83)
@@ -781,7 +763,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "aa530ae2-0ef8-40fc-ba30-a9740f1f0d2d")
+			(uuid "aa8038eb-817f-4dc6-83c7-0e0540c853c4")
 		)
 		(fp_line
 			(start 16.64 -39.5)
@@ -791,7 +773,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "5d114f8b-15cf-434f-b9d2-90e1248ca5cb")
+			(uuid "b3da3c97-bfd1-4861-afdc-76d47fb5b292")
 		)
 		(fp_line
 			(start 13.97 -36.83)
@@ -801,7 +783,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "62d4c726-c03d-4d55-8847-617d0802e135")
+			(uuid "dac6f158-3d56-47a4-a682-425ed9cdd688")
 		)
 		(fp_line
 			(start 1.27 1.27)
@@ -811,7 +793,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "c07ca092-c165-487d-8824-690146279646")
+			(uuid "40e3b1b7-f0c1-45e9-871f-21f3c5d64526")
 		)
 		(fp_line
 			(start 1.27 -36.83)
@@ -821,7 +803,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a8386196-bb8c-48bf-924f-f2c42eaf47d1")
+			(uuid "88685eec-eaa3-4eec-8205-627da1525c60")
 		)
 		(fp_line
 			(start -1.4 3.94)
@@ -831,7 +813,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "28091442-a2c0-436d-978e-9c3092c8d615")
+			(uuid "7557b45e-047b-4625-80fc-a16849119f59")
 		)
 		(fp_line
 			(start -1.4 1.27)
@@ -841,7 +823,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "fc65e5a9-7bf5-4080-92d1-cf15a58428ee")
+			(uuid "3771e717-034d-47af-b141-4c2ce550d46b")
 		)
 		(fp_line
 			(start -1.4 1.27)
@@ -851,7 +833,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f9695d5d-8a18-4670-827f-bf37488a00f8")
+			(uuid "aefbf913-0677-46c8-ab15-e5bb101a48ed")
 		)
 		(fp_line
 			(start -1.4 -1.27)
@@ -861,7 +843,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "17cfa61e-0bab-4857-8bc6-c90dfd6c7696")
+			(uuid "1e0a49ce-1e58-46d0-a71d-1116a4e3cde3")
 		)
 		(fp_line
 			(start -1.4 -36.83)
@@ -871,7 +853,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "b78b4394-83ba-46eb-848e-970ce29f606b")
+			(uuid "93ea8789-2120-4763-9654-160c28471259")
 		)
 		(fp_line
 			(start -1.4 -39.5)
@@ -881,7 +863,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "b6ea3949-3b0f-443c-9e7b-58eb18de908b")
+			(uuid "77af9e6a-d287-44f0-9306-9e46ade7895c")
 		)
 		(fp_line
 			(start 16.75 4.06)
@@ -891,7 +873,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "91a11af4-644b-47ce-84b3-3b8b4e315488")
+			(uuid "051c54c0-c33f-4030-8437-b127fff5853d")
 		)
 		(fp_line
 			(start 16.75 4.06)
@@ -901,7 +883,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "7a137253-def9-4d5e-bc47-af92d30564b1")
+			(uuid "0fbd1f9b-3241-417e-92c0-69ce8feb10d9")
 		)
 		(fp_line
 			(start -1.53 -42.16)
@@ -911,7 +893,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "7b275f00-5776-473f-a356-1cbeca5691d5")
+			(uuid "e0c66fec-6a8d-45c4-9667-b21cfd98b8e2")
 		)
 		(fp_line
 			(start -1.53 -42.16)
@@ -921,7 +903,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "bb43e7e8-c7d6-4d19-8ab4-e6763ac26d78")
+			(uuid "0ed904d2-2638-4bec-8a95-412c2def29fc")
 		)
 		(fp_line
 			(start 16.51 3.81)
@@ -931,7 +913,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "bf544564-9f66-4013-866c-c28bf1302f1c")
+			(uuid "dd403d26-e0da-4146-979d-676661f28d0d")
 		)
 		(fp_line
 			(start 16.51 -39.37)
@@ -941,7 +923,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "33e4eeac-78b1-46a0-ac4a-96b8e2449335")
+			(uuid "a88aa259-f438-4ac7-b6ca-64eab9f88110")
 		)
 		(fp_line
 			(start 11.43 -31.75)
@@ -951,7 +933,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "8405cc67-9ba4-4fd9-8061-3a91f4c9292e")
+			(uuid "83af5c5e-d847-4a1d-9eaf-1dd33b1e0d26")
 		)
 		(fp_line
 			(start 11.43 -41.91)
@@ -961,7 +943,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "2ea3b147-e6e9-49cd-916f-5ad8a57c772b")
+			(uuid "1a9010a4-2b42-4df6-8fa7-9c8aa7375d08")
 		)
 		(fp_line
 			(start 3.81 -31.75)
@@ -971,7 +953,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "f8628f7f-f39c-4f82-90a0-f744932af946")
+			(uuid "c865f4da-6762-415f-8d91-94755a9b7c70")
 		)
 		(fp_line
 			(start 3.81 -41.91)
@@ -981,7 +963,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "61a62f87-0f33-403f-8650-91762306ae8e")
+			(uuid "de127242-9a35-494e-9b50-d56353a705fe")
 		)
 		(fp_line
 			(start 0 3.81)
@@ -991,7 +973,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "98efbd61-6c9e-43a1-a337-ce7d8c123b3b")
+			(uuid "3fcac4ea-a4a1-4ade-bee4-e2c0a07d3c6e")
 		)
 		(fp_line
 			(start -1.27 2.54)
@@ -1001,7 +983,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "01135cad-fa65-4463-b37f-eecda6377a09")
+			(uuid "6948d1c1-c351-4768-9676-7968f079d791")
 		)
 		(fp_line
 			(start -1.27 -39.37)
@@ -1011,7 +993,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "e8257351-70e8-405b-ba13-8dfdb4b8c01e")
+			(uuid "0a9b4e29-5021-40e8-91a7-03585c52b5b9")
 		)
 		(fp_text user "USB"
 			(at 7.62 -35.56 0)
@@ -1029,7 +1011,7 @@
 		(fp_text user "${REFERENCE}"
 			(at 6.35 -19.05 90)
 			(layer "B.Fab")
-			(uuid "feaa991f-eb65-42c5-96d1-a0aefbc39fd6")
+			(uuid "3f09e6df-f16c-48ce-a209-c7e5581c97fc")
 			(effects
 				(font
 					(size 1 1)
@@ -1047,7 +1029,7 @@
 			(net 1 "unconnected-(A1-D1{slash}TX-Pad1)")
 			(pinfunction "D1/TX")
 			(pintype "bidirectional")
-			(uuid "d21fabe7-c357-40a7-ab19-19764ac1eca2")
+			(uuid "a327712e-fd46-49c3-8121-61e7a19c8d56")
 		)
 		(pad "2" thru_hole oval
 			(at 0 -2.54 180)
@@ -1058,7 +1040,7 @@
 			(net 2 "unconnected-(A1-D0{slash}RX-Pad2)")
 			(pinfunction "D0/RX")
 			(pintype "bidirectional")
-			(uuid "c7399ca2-7ec0-41b8-a472-cbd480743922")
+			(uuid "b7e8f6c6-60c2-4344-9e39-15f5e201a445")
 		)
 		(pad "3" thru_hole oval
 			(at 0 -5.08 180)
@@ -1069,7 +1051,7 @@
 			(net 3 "unconnected-(A1-~{RESET}-Pad3)")
 			(pinfunction "~{RESET}")
 			(pintype "input")
-			(uuid "0b9718b2-a39d-4b95-ac2a-de919619e2ac")
+			(uuid "a24bdac1-aba4-489b-a361-b4792818ad38")
 		)
 		(pad "4" thru_hole oval
 			(at 0 -7.62 180)
@@ -1080,7 +1062,7 @@
 			(net 4 "unconnected-(A1-GND-Pad4)")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "d406961e-418b-4167-81f3-b43b64531224")
+			(uuid "dfa81904-e8f2-4812-994e-e7bdd6c8ff16")
 		)
 		(pad "5" thru_hole oval
 			(at 0 -10.16 180)
@@ -1091,7 +1073,7 @@
 			(net 5 "unconnected-(A1-D2-Pad5)")
 			(pinfunction "D2")
 			(pintype "bidirectional")
-			(uuid "83440af2-bab3-45d5-92a9-0a1b63c0cf55")
+			(uuid "ed4f0cc8-ba97-478b-bf87-56065ed338e1")
 		)
 		(pad "6" thru_hole oval
 			(at 0 -12.7 180)
@@ -1102,7 +1084,7 @@
 			(net 6 "unconnected-(A1-D3-Pad6)")
 			(pinfunction "D3")
 			(pintype "bidirectional")
-			(uuid "f04bc240-d2b4-4346-8e63-e65af86b1ea4")
+			(uuid "730d7151-0d29-47c1-bce2-e5bbb31f669e")
 		)
 		(pad "7" thru_hole oval
 			(at 0 -15.24 180)
@@ -1113,7 +1095,7 @@
 			(net 7 "unconnected-(A1-D4-Pad7)")
 			(pinfunction "D4")
 			(pintype "bidirectional")
-			(uuid "008f4211-0aad-4616-91c9-3d9553aa0b3c")
+			(uuid "d4bdc793-1162-4a10-8ddb-52a5bacf33ef")
 		)
 		(pad "8" thru_hole oval
 			(at 0 -17.78 180)
@@ -1124,7 +1106,7 @@
 			(net 8 "unconnected-(A1-D5-Pad8)")
 			(pinfunction "D5")
 			(pintype "bidirectional")
-			(uuid "09866d13-705e-4dca-8db8-87ed404a1141")
+			(uuid "8f2ac2cd-3dd6-4a71-85ec-1397794b50dd")
 		)
 		(pad "9" thru_hole oval
 			(at 0 -20.32 180)
@@ -1135,7 +1117,7 @@
 			(net 9 "unconnected-(A1-D6-Pad9)")
 			(pinfunction "D6")
 			(pintype "bidirectional")
-			(uuid "1bd0c410-2ffa-4cb3-9007-c5d6cba9477e")
+			(uuid "43b50465-bddd-49e6-b037-4ce35d6bdc96")
 		)
 		(pad "10" thru_hole oval
 			(at 0 -22.86 180)
@@ -1146,7 +1128,7 @@
 			(net 10 "unconnected-(A1-D7-Pad10)")
 			(pinfunction "D7")
 			(pintype "bidirectional")
-			(uuid "4b1fecfd-b8f5-464c-88a2-51f47b23b85e")
+			(uuid "0aa8e9fd-a80d-4c7a-bf83-dbf24a792bf5")
 		)
 		(pad "11" thru_hole oval
 			(at 0 -25.4 180)
@@ -1157,7 +1139,7 @@
 			(net 11 "unconnected-(A1-D8-Pad11)")
 			(pinfunction "D8")
 			(pintype "bidirectional")
-			(uuid "ceda0e59-0a12-41d8-b7de-22779b26f637")
+			(uuid "6796bccd-0a45-4721-9453-0fb329075eda")
 		)
 		(pad "12" thru_hole oval
 			(at 0 -27.94 180)
@@ -1168,7 +1150,7 @@
 			(net 12 "unconnected-(A1-D9-Pad12)")
 			(pinfunction "D9")
 			(pintype "bidirectional")
-			(uuid "5803d7f0-3b52-4123-8868-2fea3e579640")
+			(uuid "bcf29fff-3c58-4930-bfda-116cf2ab7875")
 		)
 		(pad "13" thru_hole oval
 			(at 0 -30.48 180)
@@ -1179,7 +1161,7 @@
 			(net 13 "unconnected-(A1-D10-Pad13)")
 			(pinfunction "D10")
 			(pintype "bidirectional")
-			(uuid "f6f7f18d-4ccb-4b1c-abc7-f05719f55bf7")
+			(uuid "8a60c135-45bc-4707-8d7c-1d7f3539fe0c")
 		)
 		(pad "14" thru_hole oval
 			(at 0 -33.02 180)
@@ -1190,7 +1172,7 @@
 			(net 14 "unconnected-(A1-D11-Pad14)")
 			(pinfunction "D11")
 			(pintype "bidirectional")
-			(uuid "b37aa5ac-d530-4e53-a46a-4cdae01c3ef4")
+			(uuid "2ad31335-82dd-431f-bc95-e9e59c18f57f")
 		)
 		(pad "15" thru_hole oval
 			(at 0 -35.56 180)
@@ -1201,7 +1183,7 @@
 			(net 15 "unconnected-(A1-D12-Pad15)")
 			(pinfunction "D12")
 			(pintype "bidirectional")
-			(uuid "0b56f0e9-cc5d-419b-959c-542cac30d788")
+			(uuid "313aa33e-525b-4582-9459-dba3cb29d8a5")
 		)
 		(pad "16" thru_hole oval
 			(at 15.24 -35.56 180)
@@ -1212,7 +1194,7 @@
 			(net 16 "unconnected-(A1-D13-Pad16)")
 			(pinfunction "D13")
 			(pintype "bidirectional")
-			(uuid "0f1fc41e-e08c-4969-9514-d3501bae8756")
+			(uuid "79c87951-b59c-44bf-b934-71d5df170b3c")
 		)
 		(pad "17" thru_hole oval
 			(at 15.24 -33.02 180)
@@ -1223,7 +1205,7 @@
 			(net 17 "unconnected-(A1-3V3-Pad17)")
 			(pinfunction "3V3")
 			(pintype "power_out")
-			(uuid "f363cfb3-325b-47a6-93ff-66ea65715dab")
+			(uuid "0d0b3437-e671-4c96-a63f-c066ff777dec")
 		)
 		(pad "18" thru_hole oval
 			(at 15.24 -30.48 180)
@@ -1234,7 +1216,7 @@
 			(net 18 "unconnected-(A1-AREF-Pad18)")
 			(pinfunction "AREF")
 			(pintype "input")
-			(uuid "eb4a890a-8eb2-4315-9ed0-f3d44ce984de")
+			(uuid "976eb4fc-af05-4827-826d-523ee7bad3bf")
 		)
 		(pad "19" thru_hole oval
 			(at 15.24 -27.94 180)
@@ -1245,7 +1227,7 @@
 			(net 25 "ADC0")
 			(pinfunction "A0")
 			(pintype "bidirectional")
-			(uuid "f81d858f-e8ed-46b2-9894-a14b3ba43213")
+			(uuid "8b14cb0d-81b6-42c0-ae94-7f578eab18d4")
 		)
 		(pad "20" thru_hole oval
 			(at 15.24 -25.4 180)
@@ -1256,7 +1238,7 @@
 			(net 26 "ADC1")
 			(pinfunction "A1")
 			(pintype "bidirectional")
-			(uuid "70b9b706-9084-4c5b-aca0-fd2c3bfd451f")
+			(uuid "d5a92c73-0a1e-4860-bb60-55a5867a1f0a")
 		)
 		(pad "21" thru_hole oval
 			(at 15.24 -22.86 180)
@@ -1267,7 +1249,7 @@
 			(net 27 "ADC2")
 			(pinfunction "A2")
 			(pintype "bidirectional")
-			(uuid "c3b2b6d7-09ba-4641-85b0-60ec21369364")
+			(uuid "aae8b77e-949a-459e-ae93-f510f7aa3e8e")
 		)
 		(pad "22" thru_hole oval
 			(at 15.24 -20.32 180)
@@ -1278,7 +1260,7 @@
 			(net 28 "ADC3")
 			(pinfunction "A3")
 			(pintype "bidirectional")
-			(uuid "31450f3e-2a27-44d7-8306-068ae949a2d9")
+			(uuid "43e5185c-a266-425d-a0c9-0f2b7658342c")
 		)
 		(pad "23" thru_hole oval
 			(at 15.24 -17.78 180)
@@ -1289,7 +1271,7 @@
 			(net 29 "ADC4")
 			(pinfunction "A4")
 			(pintype "bidirectional")
-			(uuid "07fbeba5-9fd8-4a2a-93f1-718fe3da9d8f")
+			(uuid "23cafc1c-6967-4ef9-9259-0328b78161a6")
 		)
 		(pad "24" thru_hole oval
 			(at 15.24 -15.24 180)
@@ -1300,7 +1282,7 @@
 			(net 30 "ADC5")
 			(pinfunction "A5")
 			(pintype "bidirectional")
-			(uuid "7b6c0f81-40eb-4e3f-a5a6-f632f573f299")
+			(uuid "ec49ebb4-e132-435f-9ceb-902cdbad5b83")
 		)
 		(pad "25" thru_hole oval
 			(at 15.24 -12.7 180)
@@ -1311,7 +1293,7 @@
 			(net 19 "unconnected-(A1-A6-Pad25)")
 			(pinfunction "A6")
 			(pintype "bidirectional")
-			(uuid "ab272b91-424e-4f77-83d5-5ff0e75ffa7d")
+			(uuid "e1410ba7-3b17-480a-be3a-da412218a2a0")
 		)
 		(pad "26" thru_hole oval
 			(at 15.24 -10.16 180)
@@ -1322,7 +1304,7 @@
 			(net 20 "unconnected-(A1-A7-Pad26)")
 			(pinfunction "A7")
 			(pintype "bidirectional")
-			(uuid "c6ca20f3-73ec-4b26-a392-990b3b259950")
+			(uuid "aeeadf63-a71e-49cf-97e9-cccdfc0d3f9b")
 		)
 		(pad "27" thru_hole oval
 			(at 15.24 -7.62 180)
@@ -1333,7 +1315,7 @@
 			(net 24 "+5V")
 			(pinfunction "+5V")
 			(pintype "power_out")
-			(uuid "f065acbe-d5df-421d-be26-5c1219c668d9")
+			(uuid "cef61259-fadc-4b86-9086-822f38c121d7")
 		)
 		(pad "28" thru_hole oval
 			(at 15.24 -5.08 180)
@@ -1344,7 +1326,7 @@
 			(net 21 "unconnected-(A1-~{RESET}-Pad28)")
 			(pinfunction "~{RESET}")
 			(pintype "input")
-			(uuid "9b39b72b-3b10-427b-ab84-56dab78b45b8")
+			(uuid "ad10525b-82a1-46a2-b680-e3105a71a0d7")
 		)
 		(pad "29" thru_hole oval
 			(at 15.24 -2.54 180)
@@ -1355,7 +1337,7 @@
 			(net 22 "GNDREF")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "f4fb1267-e582-4bef-9e4d-0aad0f701eca")
+			(uuid "a85091fa-0211-4383-8edc-30a73613bab9")
 		)
 		(pad "30" thru_hole oval
 			(at 15.24 0 180)
@@ -1366,11 +1348,11 @@
 			(net 23 "unconnected-(A1-VIN-Pad30)")
 			(pinfunction "VIN")
 			(pintype "power_in")
-			(uuid "2467982f-172b-4715-84aa-d44d63b27b77")
+			(uuid "a1f05369-e401-4408-86c3-4a07227d3811")
 		)
 		(model "/home/andrew/Kicad/libs/kicad-lib-arduino/Arduino.3dshapes/arduino-nano--1.snapshot.4/arduino nano.STEP"
 			(offset
-				(xyz 0 0 2.5)
+				(xyz 0 0 2.6)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -1389,7 +1371,7 @@
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "dfa4c5fa-840f-4e37-97be-42c9ba597599")
+			(uuid "7a542640-f4b1-4e43-b2f2-eea9d21d346e")
 			(effects
 				(font
 					(size 1 1)
@@ -1402,7 +1384,7 @@
 			(at 34.5 -8 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "adca7f95-93fe-40d1-8d4b-74a11af915cc")
+			(uuid "b83f3426-9b54-4b56-bb23-d1762570c627")
 			(effects
 				(font
 					(size 1 1)
@@ -1416,7 +1398,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "66a0508d-8c1d-4733-9970-d02c51705b7a")
+			(uuid "d6f81386-efad-41ae-94e1-f89558376dd8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1428,7 +1410,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cd208695-ab5f-4cdf-a0fa-e667962580d6")
+			(uuid "c9c713da-1a84-4007-9cc4-d8bb419fcc8a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1440,17 +1422,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a9021c5c-5f0e-4c35-acfe-13502ea405ce")
+			(uuid "f186fe61-98b6-4bf5-92df-6bbb57ef11fe")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "Potentiometer*")
 		(path "/764b47a2-6b5d-4c44-b28a-52a27e6a6e43")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
@@ -1461,7 +1440,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "1e3eb3dd-f334-4e7e-8516-cc78e753c475")
+			(uuid "369b0864-f8ac-41ce-a943-377102b47f89")
 		)
 		(fp_rect
 			(start 79.5 -9)
@@ -1472,7 +1451,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "c5dc0c21-b682-49a6-abd1-43604ad53e0f")
+			(uuid "d3ed7eff-25b3-48ed-83fd-781902ae5e3f")
 		)
 		(fp_circle
 			(center -5 -2.5)
@@ -1483,7 +1462,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "328438a7-d56a-40f0-821d-7c7fe17380f6")
+			(uuid "eca9734a-d74a-493e-970c-b43c49740363")
 		)
 		(fp_circle
 			(center 75 -2.5)
@@ -1494,13 +1473,13 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "727c4df3-df15-40cb-bab5-c906684391b7")
+			(uuid "f6690da0-f0da-4e9e-9ec8-081799064f72")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "aec107db-d2e2-4e8f-898c-cfc3421594a8")
+			(uuid "f1ac754d-c949-4edf-b4b6-a942e3efdd5c")
 			(effects
 				(font
 					(size 1 1)
@@ -1518,7 +1497,7 @@
 			(net 22 "GNDREF")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "ebe4b8d3-7e81-4254-9d45-2eed8147219a")
+			(uuid "3a1856d5-551a-46de-9174-36fe7331fdff")
 		)
 		(pad "2" thru_hole circle
 			(at -5 -5 270)
@@ -1529,7 +1508,7 @@
 			(net 25 "ADC0")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "d438f0ac-f45c-4bfc-bc96-90669f1fcdf6")
+			(uuid "764aae31-babd-4b0b-9634-db49b93299e1")
 		)
 		(pad "2" thru_hole circle
 			(at 75 -5 270)
@@ -1540,7 +1519,7 @@
 			(net 25 "ADC0")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ea2fcdb5-802e-44d9-89fe-c15d89c67262")
+			(uuid "5a9c3421-513a-4da0-a873-030b62a094a1")
 		)
 		(pad "3" thru_hole circle
 			(at 70 0 270)
@@ -1551,9 +1530,9 @@
 			(net 24 "+5V")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "59eacc83-b065-4637-a8bb-c58705484502")
+			(uuid "b6e38fac-ffe3-413a-b143-93c2e0d9152f")
 		)
-		(model "${KIPRJMOD}/Potentiometers/Slide_Potentiomter_60mm.step"
+		(model "${KIPRJMOD}/Potentiometers_3D/Slide_Potentiometer_60mm.step"
 			(offset
 				(xyz 35 -2.5 6.1)
 			)
@@ -1574,7 +1553,7 @@
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "3105a1cc-2049-47b7-93b8-e8a31aff4d65")
+			(uuid "f47ad035-7ca2-4b45-afa8-f1de6712ae5e")
 			(effects
 				(font
 					(size 1 1)
@@ -1587,7 +1566,7 @@
 			(at 34.5 -8 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "b777651f-67d4-4bb3-a398-0a57abb3f51d")
+			(uuid "c3c08167-09af-423d-b7e2-e531b389ba26")
 			(effects
 				(font
 					(size 1 1)
@@ -1601,7 +1580,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "484963e2-01cc-4247-9edf-f8f45002d32f")
+			(uuid "5357bb33-0035-4509-81f1-9146a940ab7c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1613,7 +1592,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "41b3fd55-3f6c-4e82-b445-b372107fc3d4")
+			(uuid "f9e570e9-b342-42b0-8e9b-3dc807886fef")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1625,17 +1604,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83cb630e-f1df-4175-b886-85ca14cc55b0")
+			(uuid "1c4a2a2a-8d49-4e05-8b50-972d003308b5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "Potentiometer*")
 		(path "/82ce90ab-7116-4323-b716-448f111ade5d")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
@@ -1646,7 +1622,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "ba666402-6e2a-4c0a-8c45-9967aea6e203")
+			(uuid "248bd75e-05a5-4553-8209-40bed0cff98e")
 		)
 		(fp_rect
 			(start 79.5 -9)
@@ -1657,7 +1633,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "293a936f-5343-408f-9faa-2b6e9028a5e5")
+			(uuid "c67bf90d-d689-4fe5-974e-44dbb8ced055")
 		)
 		(fp_circle
 			(center -5 -2.5)
@@ -1668,7 +1644,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "8284b37d-ee3c-47ca-86c1-0395e2dfd04c")
+			(uuid "1a599cb1-4aab-4797-a967-5690d189e1d5")
 		)
 		(fp_circle
 			(center 75 -2.5)
@@ -1679,13 +1655,13 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "99de677a-c565-4921-929a-33ecf05b65fd")
+			(uuid "a10321ea-085d-466f-a955-bc70ed237e76")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "0855719c-8ace-4dc7-ae3c-8d4fd7d3161a")
+			(uuid "2e673173-682e-435f-af57-b4dd1353728d")
 			(effects
 				(font
 					(size 1 1)
@@ -1703,7 +1679,7 @@
 			(net 22 "GNDREF")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a0f7d841-5e34-4d0f-a7e2-b7e143f26738")
+			(uuid "fb0a4351-b6a5-4006-a935-7692d2400986")
 		)
 		(pad "2" thru_hole circle
 			(at -5 -5 270)
@@ -1714,7 +1690,7 @@
 			(net 27 "ADC2")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "620ecb4e-e82e-44f6-9954-eb177a644b5b")
+			(uuid "a2f6c55d-7e78-41b9-bf70-1027375fbf7c")
 		)
 		(pad "2" thru_hole circle
 			(at 75 -5 270)
@@ -1725,7 +1701,7 @@
 			(net 27 "ADC2")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5abb9f79-32b1-49b7-9493-fdb4008b2ca9")
+			(uuid "dba160d0-be00-4d3f-bf49-da58d7e9049a")
 		)
 		(pad "3" thru_hole circle
 			(at 70 0 270)
@@ -1736,9 +1712,9 @@
 			(net 24 "+5V")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "c1d2becc-6fc9-4fa4-a5f8-9ad7f0df5a82")
+			(uuid "b8dcdff8-6f6b-4d78-8bf7-8dec69e7acc3")
 		)
-		(model "${KIPRJMOD}/Potentiometers/Slide_Potentiomter_60mm.step"
+		(model "${KIPRJMOD}/Potentiometers_3D/Slide_Potentiometer_60mm.step"
 			(offset
 				(xyz 35 -2.5 6.1)
 			)
@@ -1759,7 +1735,7 @@
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "d8a7d9f5-2ef2-4abd-b4ba-2af77c463ed8")
+			(uuid "ac09212a-f047-4a71-9d6f-6bf099133c28")
 			(effects
 				(font
 					(size 1 1)
@@ -1772,7 +1748,7 @@
 			(at 34.5 -8 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "ccdcc007-370c-4fcf-900c-f97e5f93dbdf")
+			(uuid "ccc099a7-54c3-4e97-8097-a7cbf1507079")
 			(effects
 				(font
 					(size 1 1)
@@ -1786,7 +1762,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1ee797d8-1c1c-47d2-8a30-086228a4678e")
+			(uuid "809ee85a-6f9d-4332-abb1-ca3b89eb0f82")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1798,7 +1774,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3128c6a2-1a2e-4cef-9bb5-395da654a1b8")
+			(uuid "9f311dcf-111a-42ef-8662-db3d6ada8024")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1810,17 +1786,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b2679941-deef-4395-86e5-e3b8a567c620")
+			(uuid "c3b7f7f6-dfe7-430c-835b-94c4755a2791")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "Potentiometer*")
 		(path "/385e4553-9dc8-4de8-ae0e-008f6b0b07d0")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
@@ -1831,7 +1804,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "badc1784-4bab-4c1f-b316-062713c84457")
+			(uuid "8cd5097d-7172-49c7-aeea-c348cc81ba38")
 		)
 		(fp_rect
 			(start 79.5 -9)
@@ -1842,7 +1815,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "831e61c6-9256-4441-ba39-fa002663ada7")
+			(uuid "1c7cf040-fbd6-4db6-9a3e-c0b220a29c50")
 		)
 		(fp_circle
 			(center -5 -2.5)
@@ -1853,7 +1826,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "afcc508d-8154-451d-8138-5d05a9e39f4b")
+			(uuid "710cbbe5-b72b-4eab-aec8-23fdd902f0e6")
 		)
 		(fp_circle
 			(center 75 -2.5)
@@ -1864,13 +1837,13 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "a288ed46-2312-4b51-8d4c-870c3def8081")
+			(uuid "07b73c48-608b-416b-8ef4-8a6cfbfbdddf")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "d7c7ed67-da3d-4eb0-85e2-8b132daf63d4")
+			(uuid "88a9f135-85f2-4382-b759-39500c6c13d3")
 			(effects
 				(font
 					(size 1 1)
@@ -1888,7 +1861,7 @@
 			(net 22 "GNDREF")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "66d474ff-5a68-45fa-b558-0fad1dc3f9aa")
+			(uuid "1257dc36-792d-44f0-ae9a-0c1671d3eaed")
 		)
 		(pad "2" thru_hole circle
 			(at -5 -5 270)
@@ -1899,7 +1872,7 @@
 			(net 26 "ADC1")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "89ae78ae-8dbb-4481-8ea8-15a00e815940")
+			(uuid "c6d87169-6b8e-4c3d-b435-267491f12cc2")
 		)
 		(pad "2" thru_hole circle
 			(at 75 -5 270)
@@ -1910,7 +1883,7 @@
 			(net 26 "ADC1")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "7f1b2926-a21c-4336-a07b-3e43f7cb00ba")
+			(uuid "7960303a-1be8-4f17-989c-a732f7f602ac")
 		)
 		(pad "3" thru_hole circle
 			(at 70 0 270)
@@ -1921,9 +1894,9 @@
 			(net 24 "+5V")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "a3ee6819-14b3-4b53-bb8f-9a121254d818")
+			(uuid "58203d35-ad73-4f65-a9c2-50d05c0cd616")
 		)
-		(model "${KIPRJMOD}/Potentiometers/Slide_Potentiomter_60mm.step"
+		(model "${KIPRJMOD}/Potentiometers_3D/Slide_Potentiometer_60mm.step"
 			(offset
 				(xyz 35 -2.5 6.1)
 			)
@@ -1944,7 +1917,7 @@
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "76d22383-d106-479d-a7a3-bf41c076930a")
+			(uuid "8169e00c-fc72-4341-b430-dfd71bcaa58c")
 			(effects
 				(font
 					(size 1 1)
@@ -1957,7 +1930,7 @@
 			(at 34.5 -8 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "aa80c678-501f-4ef1-b0a6-a93d095528ea")
+			(uuid "4077f365-d49b-43f7-9ba5-b43356d77e7f")
 			(effects
 				(font
 					(size 1 1)
@@ -1971,7 +1944,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1a7d4d99-2746-4ab9-8094-bf46bb2c877f")
+			(uuid "7985d665-303d-4018-b2ee-011029aaae2a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1983,7 +1956,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7a488ffc-2065-49c9-b12c-860647c67058")
+			(uuid "c1a3c203-6e03-4f2f-8058-d76cb0b78ed1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1995,17 +1968,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d052a70a-b30b-4e0d-b844-974395a7c2ff")
+			(uuid "d0ab712d-a7e8-46cf-9171-6f6f9e889478")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "Potentiometer*")
 		(path "/ed990da5-3b05-493d-8157-e8ff1e365f7c")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
@@ -2016,7 +1986,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "4d0d54e1-427e-411c-a4aa-146709701f44")
+			(uuid "e19085e1-244c-4371-a7e6-915967f18975")
 		)
 		(fp_rect
 			(start 79.5 -9)
@@ -2027,7 +1997,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "ab0a776c-4d8f-41ae-910b-f9523a435b6a")
+			(uuid "f770f53a-a303-40ea-96f4-cd85f4abc165")
 		)
 		(fp_circle
 			(center -5 -2.5)
@@ -2038,7 +2008,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "29283bb0-3f0f-4563-a417-09ece8a5fdde")
+			(uuid "28c87c9a-5696-4cec-8d11-949baef71d11")
 		)
 		(fp_circle
 			(center 75 -2.5)
@@ -2049,13 +2019,13 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "a710f423-319d-4e04-bd44-199fbdcc909d")
+			(uuid "24b33678-3403-4f03-9518-acda40c7cc74")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "29aec7f1-58a4-4644-93c1-1079c8d0b28a")
+			(uuid "05ae1f0c-bada-45ce-978e-a29288ac9fc0")
 			(effects
 				(font
 					(size 1 1)
@@ -2073,7 +2043,7 @@
 			(net 22 "GNDREF")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "d11b95d6-b4d6-488d-9427-434030a2b3ad")
+			(uuid "f0e0d27f-8d20-4ec2-b359-7754fbf15fab")
 		)
 		(pad "2" thru_hole circle
 			(at -5 -5 270)
@@ -2084,7 +2054,7 @@
 			(net 29 "ADC4")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "536df908-ff85-4e8d-affc-360387553f4d")
+			(uuid "c214ad53-3fe7-4630-b025-adaacfdf4644")
 		)
 		(pad "2" thru_hole circle
 			(at 75 -5 270)
@@ -2095,7 +2065,7 @@
 			(net 29 "ADC4")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e3be5bed-3f0a-4908-b6cf-a2a6d9d4367f")
+			(uuid "beebbfa4-573f-4b22-8e07-6040b124c2e7")
 		)
 		(pad "3" thru_hole circle
 			(at 70 0 270)
@@ -2106,9 +2076,9 @@
 			(net 24 "+5V")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "2eb18d22-0ff2-4a98-9b76-fe6674ad5c97")
+			(uuid "c0bc510f-5a71-49ed-bbca-957715208d8d")
 		)
-		(model "${KIPRJMOD}/Potentiometers/Slide_Potentiomter_60mm.step"
+		(model "${KIPRJMOD}/Potentiometers_3D/Slide_Potentiometer_60mm.step"
 			(offset
 				(xyz 35 -2.5 6.1)
 			)
@@ -2129,7 +2099,7 @@
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "36947a1f-9b11-4af4-915e-3adc8d3f9e89")
+			(uuid "48f16874-971b-49e3-808a-68f749c356c2")
 			(effects
 				(font
 					(size 1 1)
@@ -2142,7 +2112,7 @@
 			(at 34.5 -8 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "854f51d4-d233-4242-8fde-33dac7732717")
+			(uuid "e48d3b50-e253-4629-85e0-6d6d61ae2922")
 			(effects
 				(font
 					(size 1 1)
@@ -2156,7 +2126,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b629be0a-b390-41f7-8ddd-fcc50f4271d5")
+			(uuid "ba1c15bb-9373-44a7-a210-038ce8412c56")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2168,7 +2138,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7cc4959b-ff51-4aee-a461-ca32c23f80a9")
+			(uuid "3e8e0f2f-dc1b-4dd9-b9f5-067aafa6f7f4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2180,17 +2150,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e0416e94-60a9-4915-b9a2-56c0ab52d7b0")
+			(uuid "eae9187d-d163-4194-aa81-58cb12505ac2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "Potentiometer*")
 		(path "/67cc1506-abfb-42d5-9fb5-697e2ee1b142")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
@@ -2201,7 +2168,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "2a8e74db-d0e7-4379-aea1-0869d47d8504")
+			(uuid "252bde92-d255-4bf0-adfb-e9d62f279f37")
 		)
 		(fp_rect
 			(start 79.5 -9)
@@ -2212,7 +2179,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "bdd6ceb7-676e-442d-ad95-f5dde75a9014")
+			(uuid "555b7777-3dac-4c2d-a367-425153859552")
 		)
 		(fp_circle
 			(center -5 -2.5)
@@ -2223,7 +2190,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "eef44cee-0b91-4656-9c20-573f6e9da492")
+			(uuid "02c1c988-231c-4d04-b96b-53938af15026")
 		)
 		(fp_circle
 			(center 75 -2.5)
@@ -2234,13 +2201,13 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "48cac9c6-0487-44c7-a56a-c6d12e19433b")
+			(uuid "23d96dfc-a360-45fe-9acc-0a33f0533b4d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "c9c785fd-bc20-4b5f-8045-b5b9f48d0d7c")
+			(uuid "36c273d8-63f2-465b-8786-cd54c8e7eada")
 			(effects
 				(font
 					(size 1 1)
@@ -2258,7 +2225,7 @@
 			(net 22 "GNDREF")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "cff68e23-9e69-41e3-a2ba-a85ca84abee2")
+			(uuid "3564f9ee-3dfc-4829-ae9b-3bd1d8180d57")
 		)
 		(pad "2" thru_hole circle
 			(at -5 -5 270)
@@ -2269,7 +2236,7 @@
 			(net 28 "ADC3")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5c386d81-a5fe-413c-b42f-11a5240f4d28")
+			(uuid "632546c9-ae0b-4449-a7e4-9b888c4911d3")
 		)
 		(pad "2" thru_hole circle
 			(at 75 -5 270)
@@ -2280,7 +2247,7 @@
 			(net 28 "ADC3")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "36d1ca73-c2f9-4fe2-bbcd-592cfba2d913")
+			(uuid "bb463753-f30b-47ca-91de-cdf2adb5e4e4")
 		)
 		(pad "3" thru_hole circle
 			(at 70 0 270)
@@ -2291,9 +2258,9 @@
 			(net 24 "+5V")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "d17f9be3-0193-4a4a-855d-928cf2dfafa7")
+			(uuid "70033998-7e0d-48e1-9f3b-be675d437a99")
 		)
-		(model "${KIPRJMOD}/Potentiometers/Slide_Potentiomter_60mm.step"
+		(model "${KIPRJMOD}/Potentiometers_3D/Slide_Potentiometer_60mm.step"
 			(offset
 				(xyz 35 -2.5 6.1)
 			)
@@ -2314,7 +2281,7 @@
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "ebea711f-782a-4e0f-b1ee-dbced499ff0d")
+			(uuid "3a08c11b-5dde-44d8-a687-66b5dcda4d66")
 			(effects
 				(font
 					(size 1 1)
@@ -2327,7 +2294,7 @@
 			(at 34.5 -8 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "bab87352-bff9-4713-9711-62f5258207cb")
+			(uuid "f04e06f3-9301-4fba-99b9-aaf87d70ee91")
 			(effects
 				(font
 					(size 1 1)
@@ -2341,7 +2308,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "978a2a0f-3678-4d81-ab9e-9fd66f7a06fd")
+			(uuid "7c44379b-f3e2-4383-b963-0311000a86af")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2353,7 +2320,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d6cd7a11-78cb-4d74-a8bc-e572b8a7d023")
+			(uuid "b162aa95-995d-49e6-ba7f-f2c826a059f2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2365,17 +2332,14 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4d2d7a56-9271-4f43-a24e-7a12f455cdcf")
+			(uuid "759ddada-3e67-4db4-90de-a62466e4b780")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property ki_fp_filters "Potentiometer*")
 		(path "/14a2c458-c5ba-4989-8811-1de2f2769762")
-		(sheetname "Root")
-		(sheetfile "Arduino_Mixer.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start 65 -4)
@@ -2386,7 +2350,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "2a7fa44b-7855-49d8-a30d-bdb23c5273a6")
+			(uuid "89d967f1-c5c7-42e0-b94c-ececb0f52c77")
 		)
 		(fp_rect
 			(start 79.5 -9)
@@ -2397,7 +2361,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "274b9b7d-755c-4b2a-9fa1-b270b7da5d05")
+			(uuid "4fd4126e-43f4-4b4b-becc-8788971a84ff")
 		)
 		(fp_circle
 			(center -5 -2.5)
@@ -2408,7 +2372,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "134889f7-d461-44a3-92b3-86a0da201912")
+			(uuid "81771358-0896-49fd-aa7e-c80a1600a270")
 		)
 		(fp_circle
 			(center 75 -2.5)
@@ -2419,13 +2383,13 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "16c35089-1abb-4235-9c2c-fed1eeacc263")
+			(uuid "b0ff2b47-3214-4fac-9058-c2f79bb991fc")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 17.5 -6 90)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "98c4ceb5-51a8-49d6-8001-83fba697cabd")
+			(uuid "5146eb73-e3c2-4e02-9ebf-49d94837db89")
 			(effects
 				(font
 					(size 1 1)
@@ -2443,7 +2407,7 @@
 			(net 22 "GNDREF")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "838527af-8142-44e0-8e01-ef2a854f2d9d")
+			(uuid "cb8a2fae-9d8d-42a6-9558-7dd655873fa4")
 		)
 		(pad "2" thru_hole circle
 			(at -5 -5 270)
@@ -2454,7 +2418,7 @@
 			(net 30 "ADC5")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "bc218971-a871-450c-90d2-7fbd5874ac57")
+			(uuid "0dcbf40e-0792-42dd-ac22-9911bb1c6862")
 		)
 		(pad "2" thru_hole circle
 			(at 75 -5 270)
@@ -2465,7 +2429,7 @@
 			(net 30 "ADC5")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "10912668-617b-4e5f-8a2c-41b904e5c8c0")
+			(uuid "88eb7923-e7fe-401a-a57f-d36a475317ac")
 		)
 		(pad "3" thru_hole circle
 			(at 70 0 270)
@@ -2476,9 +2440,9 @@
 			(net 24 "+5V")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "54c88a76-590b-42fd-83d3-e2a143980bc1")
+			(uuid "e9160c6f-1415-4f80-acf9-b58fc87ad950")
 		)
-		(model "${KIPRJMOD}/Potentiometers/Slide_Potentiomter_60mm.step"
+		(model "${KIPRJMOD}/Potentiometers_3D/Slide_Potentiometer_60mm.step"
 			(offset
 				(xyz 35 -2.5 6.1)
 			)
