@@ -1522,6 +1522,17 @@
 			(pintype "passive")
 			(uuid "fa82356b-d22e-4baf-9e60-5a83aa2c78ec")
 		)
+		(model "${LOCAL_REPO}/3D_Models/Potentiometers_THT/Slide_Potentiomter_60mm.step"
+			(offset
+				(xyz 35 -2.5 6.1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Potentiometers:Potentiometer_Slide_60mm_Switch_Electronics"
 		(locked yes)
