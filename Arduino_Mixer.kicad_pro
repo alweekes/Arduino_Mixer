@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "3D_Views/",
+      "plot": "plots/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Arduino_Mixer.step",
