@@ -489,7 +489,7 @@
       "plot": "plots/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Arduino_Mixer.step",
+      "step": "STEP Files/Arduino_Mixer.step",
       "svg": "",
       "vrml": "Arduino_Mixer.wrl"
     },

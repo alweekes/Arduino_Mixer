@@ -17,6 +17,9 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
+# Large 3D object files for Blender
+*.obj
+
 # Netlist files (exported from Eeschema)
 *.net
 
