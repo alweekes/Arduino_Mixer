@@ -1,0 +1,4 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"H2,H3,H4,H1";"MountingHole_3.2mm_M3_ISO14580";4;"MountingHole";;;
+2;"A1";"Arduino_Nano";1;"Arduino_Nano_v3.x";;;
+3;"RV4,RV2,RV3,RV6,RV1,RV5";"Potentiometer_Slide_60mm_Switch_Electronics";6;"10K Linear";;;
